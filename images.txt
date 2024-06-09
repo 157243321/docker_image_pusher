@@ -1,2 +1,1 @@
-cooderl/wewe-rss-sqlite:latest
 data calciumion/new-api:latest
