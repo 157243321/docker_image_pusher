@@ -1,1 +1,1 @@
-devcxl/wechatbot:latest
+registry.fit2cloud.com/halo/halo:2.16
