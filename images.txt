@@ -1,1 +1,1 @@
-justsong/one-api
+new-api:latest
