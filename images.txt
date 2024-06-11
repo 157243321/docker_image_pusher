@@ -1,1 +1,1 @@
- containrrr/watchtower
+chat-api:latest
