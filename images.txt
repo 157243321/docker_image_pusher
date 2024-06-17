@@ -1,1 +1,1 @@
-ai365/chat-api:latest
+rabbitmq
