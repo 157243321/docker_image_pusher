@@ -1,1 +1,1 @@
-rabbitmq
+yidadaa/chatgpt-next-web
