@@ -1,2 +1,2 @@
 alpine
-yidadaa/chatgpt-next-web
+cloudflare/cloudflared
