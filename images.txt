@@ -1,2 +1,2 @@
 alpine
-chenzhaoyu94/chatgpt-web
+gosuto/chatgpt-next-web-langchain
