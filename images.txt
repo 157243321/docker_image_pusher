@@ -1,2 +1,2 @@
 alpine
-gosuto/chatgpt-next-web-langchain
+songquanpeng/one-api
