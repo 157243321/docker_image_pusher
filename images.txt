@@ -1,2 +1,1 @@
-alpine
-songquanpeng/one-api
+justsong/one-api
