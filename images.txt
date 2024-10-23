@@ -1,3 +1,5 @@
+lanol/ailink:vip
+lanol/ailink
 alpine
 nginx
 python
