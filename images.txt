@@ -1,3 +1,4 @@
+ghcr.io/rickcert/chatgpt-next-web
 docker pull ghcr.io/rickcert/chatgpt-next-web
 ghcr.io/rickcert/chatgpt-next-web@sha256:5c42fbb65c404bdebc792009088d5313c3ef461f1f591c671f8e87cc935af774
 vinlic/kimi-free-api:latest
