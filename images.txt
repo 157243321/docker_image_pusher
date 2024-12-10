@@ -1,3 +1,4 @@
+vinlic/deepseek-free-api:latest
 vinlic/jimeng-free-api:latest
 vinlic/doubao-free-api:latest
 cloudflare/cloudflared
