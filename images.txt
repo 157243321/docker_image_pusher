@@ -1,3 +1,4 @@
+yxmiler/grok2api:latest
 doubebly/doube-itv:latest
 justsong/one-api:latest
 vinlic/minimax-free-api:latest
