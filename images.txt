@@ -1,3 +1,4 @@
+u8f69/open-webui
 nansy/xxxbot-pad:latest
 n8nio/n8n
 yxmiler/grok2api:latest
