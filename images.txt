@@ -1,4 +1,5 @@
-u8f69/open-webui
+ghcr.io/u8f69/open-webui:latest
+u8f69/open-webui:latest
 nansy/xxxbot-pad:latest
 n8nio/n8n
 yxmiler/grok2api:latest
