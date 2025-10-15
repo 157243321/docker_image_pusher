@@ -1,3 +1,4 @@
+superen7527/99ai:latest
 lanol/filecodebox:latest
 vinlic/qwen-free-api:latest
 vinlic/doubao-free-api:latest
