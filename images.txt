@@ -1,3 +1,5 @@
+zhuchenyu2008/rss-ai-backend
+zhuchenyu2008/rss-ai-frontend
 superen7527/99ai:latest
 lanol/filecodebox:latest
 vinlic/qwen-free-api:latest
