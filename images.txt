@@ -1,1 +1,1 @@
-iptag/jimeng-api
+wwwzhouhui569/jimeng-free-api-all:latest
