@@ -1,13 +1,1 @@
-zhuchenyu2008/rss-ai-backend
-zhuchenyu2008/rss-ai-frontend
-superen7527/99ai:latest
-lanol/filecodebox:latest
-vinlic/qwen-free-api:latest
-vinlic/doubao-free-api:latest
-vinlic/glm-free-api:latest
-vinlic/deepseek-free-api:latest
-vinlic/kimi-free-api:latest
-vinlic/jimeng-free-api:latest
-vinlic/minimax-free-api:latest
-vinlic/step-free-api:latest
-vinlic/emohaa-free-api:latest
+iptag/jimeng-api:latest
