@@ -1,1 +1,1 @@
-iptag/jimeng-api:latest
+iptag/jimeng-api
