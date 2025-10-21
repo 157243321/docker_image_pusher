@@ -1,4 +1,1 @@
-ghcr.io/iptag/jimeng-api:latest
-iptag/jimeng-api:latest
-ghcr.io/veloera/veloera:latest
-veloera/veloera:latest
+calciumion/new-api:latest
