@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+openwebui/open-webui:main
