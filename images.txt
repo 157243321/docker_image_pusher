@@ -1,1 +1,4 @@
-Docker/Dockerfile
+mysql:5.7
+redis:latest
+openjdk:21
+nginx:latest
