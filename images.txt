@@ -1,4 +1,4 @@
-mysql:5.7
-redis:latest
-openjdk:21
-nginx:latest
+library/mysql:5.7
+library/redis:latest
+library/openjdk:21
+library/nginx:latest
