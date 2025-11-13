@@ -1,3 +1,1 @@
-library/openjdk:21
-mosipdev/openjdk-21-jdk
-mosipid/openjdk-21-jdk
+docker.io/library/openjdk:21
